@@ -1,1 +1,1 @@
-# pqa
+# Exploration of Parallel Quantum Annealing
